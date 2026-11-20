@@ -28,7 +28,7 @@
     --font-list: 'Retrogression', 'Syne', monospace;
 
     /* Main colors */
-    --color-background: #25330f;
+    --color-background: #27363f;
     --color-text: #000;
     --color-white: #fff;
 
@@ -225,8 +225,8 @@ body {
 
     background: repeating-linear-gradient(
         45deg,
-        #fdfdfd 0 18px,
-        #e63946 18px 36px
+        #f0ecdd 0 18px,
+        #6b212c 18px 36px
     );
 
     scroll-snap-align: start;
